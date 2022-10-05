@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>we-sell</title>
+</head>
+
+<body>
+  <table CELLSPACING=20>
+    <tr>
+      <td><img src="home image.jpg" alt="REAL ESTATE"></td>
+      <td>
+        <h1><em><strong>REAL ESTATE</strong></em></h1>
+        <p><em><strong>BUYING</strong></em></p>
+        <p><em><strong>SELLING</strong></em></p>
+        <hr>
+      </td>
+    </tr>
+  </table>
+  <h3>GUILD</h3>
+  <ul>
+    <li><a href="https://www.investopedia.com/mortgage/real-estate-investing-guide/">BEGINNERS GUILD INTO REAL ESTATE</a></li>
+    <li><a href="https://www.pinterest.com/ideas/home-buying/956164207457/">BUYING</a></li>
+    <li><a href="https://www.pinterest.com/ideas/real-estate/961375696718/">REAL ESTATE</a></li>
+    <li><a href="https://www.pinterest.com/ideas/real-estate-marketing/955352843631/">REAL ESTATE MARKETING</a></li>
+    <li><a href="https://www.pinterest.com/ideas/home-selling-tips/955140999696/">HOME SELLING TIPS</a></li>
+    <li><a href="https://www.pinterest.com/ideas/real-estate-buying/930422858464/">REAL ESTATE BUYING</a></li>
+
+  </ul>
+  <hr>
+  <a href="CONTACTME.HTML">CONTACT ME</a>
+  <hr>
+  <h3>WORK EXPREINCE</h3>
+  <thead>
+    <tr>
+      <h4>
+        <th>DATE</th>
+        <th>WORK</th>
+      </h4>
+    </tr>
+  </thead>
+  <tbody>
+    <table>
+      <tr>2019-TILL DATE:</tr>
+      <tr> WORK AS A CONSTRUCTION CONTRACTOR AT DEWOO TECH</tr>
+    </table>
+    <table>
+      <tr>2015-2018:</tr>
+      <tr>STARTED LEARNING ABOUT ROBOT MARKETING</tr>
+    </table>
+  </tbody>
+  <hr>
+  <h3>PRODUCT</h3>
+  <table CELLSPACING=10>
+    <tr>
+      <td>CEMENT</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>CONCRETE RING</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+
+    <tr>
+
+      <td>GRANITE</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>BUILDING CONTRACTOR</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    </tfoot>
+
+  </table>
+
+
+
+
+
+
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>learn more.html</title>
+  </head>
+  <body>
+  <h3>learn more.html</h3>
+  <ul>
+</li><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj2jrvn0cj6AhWL13cKHcWTAaIYABABGgJlZg&ohost=www.google.com&cid=CAESauD24lnRQtj9Zfr5fa8XIKpofXAumRnlqy5IxG_Oebvk_REoQ4WYwUQrZasDKGU53WJTiatZWdLHtpgJhZxTgadg-Y81yfzPLmZ4G3qu8sNTUiy-WCgFxwFA-tuT4wXLd1cYLJeFlDh75N0&sig=AOD64_1zmVeHX5pHVpArdbTTjhyyFewz5A&q&adurl&ved=2ahUKEwid87Hn0cj6AhVX_rsIHSlfBhUQ0Qx6BAgFEAE">more info</a></li>
+<li><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj2jrvn0cj6AhWL13cKHcWTAaIYABADGgJlZg&ohost=www.google.com&cid=CAESauD24lnRQtj9Zfr5fa8XIKpofXAumRnlqy5IxG_Oebvk_REoQ4WYwUQrZasDKGU53WJTiatZWdLHtpgJhZxTgadg-Y81yfzPLmZ4G3qu8sNTUiy-WCgFxwFA-tuT4wXLd1cYLJeFlDh75N0&sig=AOD64_2-_-pj6IUOac9BUQTlVGE69UkodA&q&adurl&ved=2ahUKEwid87Hn0cj6AhVX_rsIHSlfBhUQ0Qx6BAgEEAE">more to know</a></li>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CONTACT ME</title>
+  </head>
+  <body>
+
+
+  <p>EMAIL<a href="GMAIL.COM">ANJOLA505@GMAIL.COM</a></p>
+<p>MOBILE CONTACT:+2348090815016</p>
+<hr>
+<h1>MAIL ME</h1>
+<form action="mailto:ANJOLA505@GMAIL.COM" method="POST"enctype="text/plain"
+  <label for="">YOUR NAME</label>
+  <input type="TEXT" name="YOUR NAME" =""><br>
+  <label for="">YOUR EMAIL</label>
+  <input type="EMAIL" name="YOUR EMAIL"="">
+  <label for=""><h3>YOUR MESSAGE</h3></label>
+  <textarea name="YOURMESSAGE" rows="10" cols="30"></textarea>
+  <input type="SUBMIT" name=""="">
+  <input type="checkbox" name="" value="">
+
+
+
+
+</form>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
